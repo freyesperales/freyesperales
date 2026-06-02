@@ -1,0 +1,19 @@
+{
+  "name": "profile-generator",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Pre-renders the GitHub profile README assets from live API data.",
+  "scripts": {
+    "build": "tsx src/main.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "@types/node": "^22.10.2"
+  }
+}

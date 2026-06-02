@@ -1,0 +1,57 @@
+name: Build profile
+
+on:
+  schedule:
+    # 06:00 UTC daily. Cron is best-effort on GitHub; exact minute may drift.
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths:
+      - "src/**"
+      - "README.template.md"
+      - ".github/workflows/build-profile.yml"
+
+# Principle of least privilege: the job only needs to write repo contents.
+permissions:
+  contents: write
+
+concurrency:
+  group: build-profile
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Generate assets and README
+        env:
+          GH_LOGIN: ${{ github.repository_owner }}
+          # Automatic, scoped token — no PAT, no manual secret to rotate.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run build
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain assets README.md)" ]; then
+            git add assets README.md
+            git commit -m "chore: refresh profile assets [skip ci]"
+            git push
+            echo "Pushed updated assets."
+          else
+            echo "No changes — skipping commit."
+          fi

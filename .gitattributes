@@ -1,0 +1,7 @@
+# Normalize line endings to LF in the repo. The generator runs on Linux CI and
+# compares files byte-for-byte (writeIfChanged); without this, CRLF checked in
+# from Windows would look like a diff on every run and churn the assets daily.
+* text=auto eol=lf
+*.svg text eol=lf
+*.png binary
+*.gif binary
