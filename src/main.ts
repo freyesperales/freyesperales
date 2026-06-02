@@ -7,6 +7,7 @@ import { renderHero } from "./render/hero.js";
 import { renderStats } from "./render/stats.js";
 import { renderActivity } from "./render/activity.js";
 import { renderNow } from "./render/now.js";
+import { renderSnake } from "./render/snake.js";
 import { theme } from "./theme.js";
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), "..");
@@ -69,6 +70,7 @@ async function main(): Promise<void> {
     { file: "stats.svg", content: renderStats(stats, theme) },
     { file: "activity.svg", content: renderActivity(stats, theme) },
     { file: "now.svg", content: renderNow(stats, theme) },
+    { file: "snake.svg", content: renderSnake(stats, theme) },
   ];
 
   let changed = 0;

@@ -45,7 +45,10 @@ Desarrollador de software enfocado en **automatización, productividad y ecosist
 
 ### 🐍 Contribuciones
 
-![Snake animation](https://raw.githubusercontent.com/freyesperales/freyesperales/output/github-contribution-grid-snake.svg)
+> Una serpiente recorre el año y va encendiendo cada día con commits. Renderizada
+> por el mismo pipeline propio — sin servicios externos ni ramas auxiliares.
+
+![Contribuciones](./assets/snake.svg)
 
 ---
 
