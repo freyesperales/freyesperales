@@ -71,5 +71,5 @@
     <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
   </circle>
   <text x="60" y="153" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-    font-size="13">activo · 214 contribuciones (12 meses)</text>
+    font-size="13">activo · 256 contribuciones (12 meses)</text>
 </svg>
