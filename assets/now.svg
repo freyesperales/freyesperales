@@ -40,11 +40,11 @@
   <g>
     <rect class="elev" x="20" y="166" width="800" height="92" rx="8" stroke-width="1"/>
     <text x="36" y="194" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-      font-size="16" font-weight="700">dev-experiment-009</text>
+      font-size="16" font-weight="700">dev-experiment-010</text>
     <text x="804" y="194" class="muted" text-anchor="end"
       font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hoy</text>
     <text x="36" y="218" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-      font-size="13">trifecta — LLM-free static lethal-trifecta capability-flow analyzer for MCP toolset…</text>
+      font-size="13">capsule — LLM-free content-addressed lockfile + supply-chain mutability auditor for…</text>
     <circle cx="42" cy="236" r="5" fill="#3572A5"/><text x="54" y="240" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">Python</text>
   </g>
   <g>
@@ -60,11 +60,11 @@
   <g>
     <rect class="elev" x="20" y="378" width="800" height="92" rx="8" stroke-width="1"/>
     <text x="36" y="406" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-      font-size="16" font-weight="700">dev-experiment-008</text>
+      font-size="16" font-weight="700">dev-experiment-009</text>
     <text x="804" y="406" class="muted" text-anchor="end"
-      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hace 2 d</text>
+      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · ayer</text>
     <text x="36" y="430" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-      font-size="13">contravene: variance-aware breaking-change classifier for MCP tool contracts</text>
+      font-size="13">trifecta — LLM-free static lethal-trifecta capability-flow analyzer for MCP toolset…</text>
     <circle cx="42" cy="448" r="5" fill="#3572A5"/><text x="54" y="452" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">Python</text>
   </g>
 </svg>
