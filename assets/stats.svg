@@ -24,7 +24,7 @@
     rx="10" fill="none" stroke-width="1"/>
   
       <text x="105" y="50" class="accent" text-anchor="middle"
-        font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="30" font-weight="700">68</text>
+        font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="30" font-weight="700">69</text>
       <text x="105" y="74" class="muted" text-anchor="middle"
         font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13">Repositorios</text>
       <text x="315" y="50" class="accent" text-anchor="middle"
@@ -36,7 +36,7 @@
       <text x="525" y="74" class="muted" text-anchor="middle"
         font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13">Seguidores</text>
       <text x="735" y="50" class="accent" text-anchor="middle"
-        font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="30" font-weight="700">381</text>
+        font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="30" font-weight="700">384</text>
       <text x="735" y="74" class="muted" text-anchor="middle"
         font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="13">Contribuciones</text>
   <line x1="40" y1="96" x2="800" y2="96" class="stroke-border" stroke-width="1"/>
@@ -55,7 +55,7 @@
       <rect x="160" y="144" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
       <rect x="160" y="144" width="0" height="13" rx="6" fill="#3178c6">
-        <animate attributeName="width" from="0" to="166.0"
+        <animate attributeName="width" from="0" to="161.1"
           dur="0.9s" begin="0.12s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
@@ -64,7 +64,7 @@
       <rect x="160" y="174" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
       <rect x="160" y="174" width="0" height="13" rx="6" fill="#e34c26">
-        <animate attributeName="width" from="0" to="54.6"
+        <animate attributeName="width" from="0" to="53.0"
           dur="0.9s" begin="0.24s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
@@ -73,7 +73,7 @@
       <rect x="160" y="204" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
       <rect x="160" y="204" width="0" height="13" rx="6" fill="#f1e05a">
-        <animate attributeName="width" from="0" to="45.8"
+        <animate attributeName="width" from="0" to="44.4"
           dur="0.9s" begin="0.36s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
@@ -82,7 +82,7 @@
       <rect x="160" y="234" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
       <rect x="160" y="234" width="0" height="13" rx="6" fill="#012456">
-        <animate attributeName="width" from="0" to="13.0"
+        <animate attributeName="width" from="0" to="12.6"
           dur="0.9s" begin="0.48s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
@@ -91,7 +91,7 @@
       <rect x="160" y="264" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
       <rect x="160" y="264" width="0" height="13" rx="6" fill="#663399">
-        <animate attributeName="width" from="0" to="10.5"
+        <animate attributeName="width" from="0" to="10.2"
           dur="0.9s" begin="0.60s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
