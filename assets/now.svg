@@ -30,41 +30,41 @@
   <g>
     <rect class="elev" x="20" y="60" width="800" height="92" rx="8" stroke-width="1"/>
     <text x="36" y="88" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-      font-size="16" font-weight="700">freyesperales</text>
-    <text x="804" y="88" class="muted" text-anchor="end"
-      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · ayer</text>
-    <text x="36" y="112" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-      font-size="13">Perfil personalizado</text>
-    <circle cx="42" cy="130" r="5" fill="#3178c6"/><text x="54" y="134" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">TypeScript</text>
-  </g>
-  <g>
-    <rect class="elev" x="20" y="166" width="800" height="92" rx="8" stroke-width="1"/>
-    <text x="36" y="194" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
       font-size="16" font-weight="700">dev-experiments-365</text>
-    <text x="804" y="194" class="muted" text-anchor="end"
-      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hace 3 d</text>
-    <text x="36" y="218" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+    <text x="804" y="88" class="muted" text-anchor="end"
+      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hoy</text>
+    <text x="36" y="112" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
       font-size="13">Durable state + index for the autonomous daily R&amp;D agent (one experiment per day)</text>
     
   </g>
   <g>
+    <rect class="elev" x="20" y="166" width="800" height="92" rx="8" stroke-width="1"/>
+    <text x="36" y="194" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
+      font-size="16" font-weight="700">dev-experiment-041</text>
+    <text x="804" y="194" class="muted" text-anchor="end"
+      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hoy</text>
+    <text x="36" y="218" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+      font-size="13">parallax - offline projection auditor for the MCP tool-result plane: what the human…</text>
+    <circle cx="42" cy="236" r="5" fill="#3572A5"/><text x="54" y="240" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">Python</text>
+  </g>
+  <g>
     <rect class="elev" x="20" y="272" width="800" height="92" rx="8" stroke-width="1"/>
     <text x="36" y="300" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-      font-size="16" font-weight="700">dev-experiment-040</text>
+      font-size="16" font-weight="700">freyesperales</text>
     <text x="804" y="300" class="muted" text-anchor="end"
-      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hace 3 d</text>
+      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hoy</text>
     <text x="36" y="324" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-      font-size="13">sleight - a path denotation auditor for agent workspace confinement policies: a con…</text>
-    <circle cx="42" cy="342" r="5" fill="#3572A5"/><text x="54" y="346" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">Python</text>
+      font-size="13">Perfil personalizado</text>
+    <circle cx="42" cy="342" r="5" fill="#3178c6"/><text x="54" y="346" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">TypeScript</text>
   </g>
   <g>
     <rect class="elev" x="20" y="378" width="800" height="92" rx="8" stroke-width="1"/>
     <text x="36" y="406" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-      font-size="16" font-weight="700">dev-experiment-039</text>
+      font-size="16" font-weight="700">dev-experiment-040</text>
     <text x="804" y="406" class="muted" text-anchor="end"
       font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hace 4 d</text>
     <text x="36" y="430" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-      font-size="13">halflife - offline, LLM-free residency model checker for the agent context-compacti…</text>
+      font-size="13">sleight - a path denotation auditor for agent workspace confinement policies: a con…</text>
     <circle cx="42" cy="448" r="5" fill="#3572A5"/><text x="54" y="452" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">Python</text>
   </g>
 </svg>
