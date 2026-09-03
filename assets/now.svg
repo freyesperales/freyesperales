@@ -40,11 +40,11 @@
   <g>
     <rect class="elev" x="20" y="166" width="800" height="92" rx="8" stroke-width="1"/>
     <text x="36" y="194" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-      font-size="16" font-weight="700">dev-experiment-042</text>
+      font-size="16" font-weight="700">dev-experiment-043</text>
     <text x="804" y="194" class="muted" text-anchor="end"
       font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hoy</text>
     <text x="36" y="218" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-      font-size="13">undertow - offline, LLM-free, pure-stdlib auditor for the MCP cancellation/abort pl…</text>
+      font-size="13">skein - offline, LLM-free, dependency-free serializability &amp; interference auditor f…</text>
     <circle cx="42" cy="236" r="5" fill="#3572A5"/><text x="54" y="240" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">Python</text>
   </g>
   <g>
@@ -52,7 +52,7 @@
     <text x="36" y="300" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
       font-size="16" font-weight="700">freyesperales</text>
     <text x="804" y="300" class="muted" text-anchor="end"
-      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · hoy</text>
+      font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · ayer</text>
     <text x="36" y="324" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
       font-size="13">Perfil personalizado</text>
     <circle cx="42" cy="342" r="5" fill="#3178c6"/><text x="54" y="346" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">TypeScript</text>
@@ -60,11 +60,11 @@
   <g>
     <rect class="elev" x="20" y="378" width="800" height="92" rx="8" stroke-width="1"/>
     <text x="36" y="406" class="accent" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-      font-size="16" font-weight="700">dev-experiment-041</text>
+      font-size="16" font-weight="700">dev-experiment-042</text>
     <text x="804" y="406" class="muted" text-anchor="end"
       font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">★ 0 · ayer</text>
     <text x="36" y="430" class="text" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
-      font-size="13">parallax - offline projection auditor for the MCP tool-result plane: what the human…</text>
+      font-size="13">undertow - offline, LLM-free, pure-stdlib auditor for the MCP cancellation/abort pl…</text>
     <circle cx="42" cy="448" r="5" fill="#3572A5"/><text x="54" y="452" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="12">Python</text>
   </g>
 </svg>
