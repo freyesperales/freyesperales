@@ -13,7 +13,7 @@ export function renderHero(stats: GitHubStats, theme: Theme): string {
 
   return `<svg width="${W}" height="${H}" viewBox="0 0 ${W} ${H}"
   xmlns="http://www.w3.org/2000/svg" role="img"
-  aria-label="${displayName} — software engineering profile header">
+  aria-label="${displayName} — cabecera del perfil">
   ${themeStyle(theme.dark, theme.light)}
   <defs>
     <linearGradient id="sweep" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -43,7 +43,7 @@ export function renderHero(stats: GitHubStats, theme: Theme): string {
   <text x="40" y="84" class="text" font-family="${theme.fontStack}"
     font-size="40" font-weight="700">${displayName}</text>
   ${typewriter(
-    "software engineer · automation · web systems",
+    "creativo digital · automatización con IA · agentes, MCP, web y seguridad",
     42,
     116,
     { fontSize: 15, fontFamily: theme.monoStack, dur: 2.6 },
