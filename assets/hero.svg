@@ -1,6 +1,6 @@
 <svg width="840" height="200" viewBox="0 0 840 200"
   xmlns="http://www.w3.org/2000/svg" role="img"
-  aria-label="Francisco Reyes — software engineering profile header">
+  aria-label="Francisco Reyes — cabecera del perfil">
   
     <style>
       :root { 
@@ -51,15 +51,15 @@
   <defs>
     <clipPath id="tw-clip">
       <rect x="42" y="101" width="0" height="23">
-        <animate attributeName="width" from="0" to="400" dur="2.6s"
+        <animate attributeName="width" from="0" to="652" dur="2.6s"
           begin="0.3s" fill="freeze" calcMode="linear"/>
       </rect>
     </clipPath>
   </defs>
   <text x="42" y="116" clip-path="url(#tw-clip)" class="muted"
-    font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="1">software engineer · automation · web systems</text>
+    font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace" font-size="15" letter-spacing="1">creativo digital · automatización con IA · agentes, MCP, web y seguridad</text>
   <rect x="42" y="103" width="2" height="15" class="accent">
-    <animate attributeName="x" from="42" to="442" dur="2.6s"
+    <animate attributeName="x" from="42" to="694" dur="2.6s"
       begin="0.3s" fill="freeze" calcMode="linear"/>
     <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s"
       begin="2.9s" repeatCount="indefinite"/>
@@ -71,5 +71,5 @@
     <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
   </circle>
   <text x="60" y="153" class="muted" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-    font-size="13">activo · 559 contribuciones (12 meses)</text>
+    font-size="13">activo · 560 contribuciones (12 meses)</text>
 </svg>
