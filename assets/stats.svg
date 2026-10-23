@@ -51,29 +51,29 @@
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
       <text x="40" y="155" class="text" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-        font-size="13">TypeScript</text>
+        font-size="13">JavaScript</text>
       <rect x="160" y="144" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
-      <rect x="160" y="144" width="0" height="13" rx="6" fill="#3178c6">
-        <animate attributeName="width" from="0" to="55.3"
+      <rect x="160" y="144" width="0" height="13" rx="6" fill="#f1e05a">
+        <animate attributeName="width" from="0" to="67.6"
           dur="0.9s" begin="0.12s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
       <text x="40" y="185" class="text" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-        font-size="13">JavaScript</text>
+        font-size="13">HTML</text>
       <rect x="160" y="174" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
-      <rect x="160" y="174" width="0" height="13" rx="6" fill="#f1e05a">
-        <animate attributeName="width" from="0" to="45.8"
+      <rect x="160" y="174" width="0" height="13" rx="6" fill="#e34c26">
+        <animate attributeName="width" from="0" to="57.7"
           dur="0.9s" begin="0.24s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
       <text x="40" y="215" class="text" font-family="ui-monospace, 'SF Mono', 'Cascadia Code', 'Roboto Mono', Menlo, Consolas, monospace"
-        font-size="13">HTML</text>
+        font-size="13">TypeScript</text>
       <rect x="160" y="204" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
-      <rect x="160" y="204" width="0" height="13" rx="6" fill="#e34c26">
-        <animate attributeName="width" from="0" to="24.6"
+      <rect x="160" y="204" width="0" height="13" rx="6" fill="#3178c6">
+        <animate attributeName="width" from="0" to="55.3"
           dur="0.9s" begin="0.36s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
