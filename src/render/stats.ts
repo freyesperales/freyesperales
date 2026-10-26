@@ -15,8 +15,6 @@ export function renderStats(stats: GitHubStats, theme: Theme): string {
 
   const counters: ReadonlyArray<readonly [string, number]> = [
     ["Repositorios", stats.totalRepos],
-    ["Stars", stats.totalStars],
-    ["Seguidores", stats.followers],
     ["Contribuciones", stats.contributionsLastYear],
   ];
 
