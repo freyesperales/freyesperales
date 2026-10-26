@@ -25,7 +25,8 @@ Lo que construyo:
 - Sitios headless con Next.js y Shopify Hydrogen, y tiendas integradas con pagos y ERP.
 - Ciberseguridad: auditoría, mitigación, monitoreo y desinfección de sitios de clientes, y auditores de código abierto para agentes de IA.
 
-### About
+<details>
+<summary><b>About (English)</b></summary>
 
 I have worked in digital creative since 2012. I started in art direction and in 2015 co-founded LAURA, a digital agency I have run since 2023. With long-term clients we produce hundreds of multichannel campaigns a year. I automated the work we used to do by hand as a team with AI systems I designed, and I document each one so someone else can run it. Based in Madrid.
 
@@ -37,6 +38,8 @@ What I build:
 - Headless sites with Next.js and Shopify Hydrogen, and shops connected to payments and ERP systems.
 - Security: auditing, mitigation, monitoring and malware clean-up of client sites, plus open-source auditors for AI agents.
 
+</details>
+
 ---
 
 ### Código abierto · Open source
@@ -45,7 +48,7 @@ What I build:
 |---|---|---|
 | [panoply](https://github.com/freyesperales/panoply) | 43 auditores de seguridad para sistemas de agentes y servidores MCP, unas 1.500 reglas; sin modelo de IA y sin conexión | 43 security auditors for agent systems and MCP servers, about 1,500 rules; no AI model, no network |
 | [hearsay](https://github.com/freyesperales/hearsay) | Marca el texto con forma de instrucción en lo que lee un agente (inyección de instrucciones); hook de Claude Code | Flags instruction-shaped text in what an agent reads (prompt injection); a Claude Code hook |
-| [dev-experiments-365](https://github.com/freyesperales/dev-experiments-365) | Índice de los 58 prototipos que publicó entre julio y octubre de 2026 un agente de I+D que dirijo; de ahí salió panoply | Index of the 58 prototypes an R&D agent I direct published between July and October 2026; panoply came out of it |
+| [dev-experiments-365](https://github.com/freyesperales/dev-experiments-365) | Índice de los más de 80 prototipos que publica desde julio de 2026 un agente de I+D que dirijo; de ahí salió panoply | Index of the 80+ prototypes an R&D agent I direct has published since July 2026; panoply came out of it |
 | [skillscan](https://github.com/freyesperales/skillscan) | Analiza skills de Claude en busca de inyección, exfiltración e ingeniería social | Scans Claude skills for injection, exfiltration and social engineering |
 | [llm-firewall](https://github.com/freyesperales/llm-firewall) | Proxy para modelos de lenguaje que detecta fugas de datos personales e inyección de instrucciones | LLM proxy that detects personal data leaks and prompt injection |
 | [portwarden](https://github.com/freyesperales/portwarden) | Control de puertos y procesos en la terminal para Linux, escrito en Rust | Terminal port and process control for Linux, written in Rust |
@@ -63,12 +66,6 @@ What I build:
 ### Métricas
 
 ![Estadísticas](./assets/stats.svg)
-
----
-
-### Actividad
-
-![Actividad](./assets/activity.svg)
 
 ---
 
