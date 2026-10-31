@@ -47,7 +47,7 @@
       <rect x="160" y="144" width="620" height="13" rx="6"
         class="elev" stroke-width="1"/>
       <rect x="160" y="144" width="0" height="13" rx="6" fill="#f1e05a">
-        <animate attributeName="width" from="0" to="102.5"
+        <animate attributeName="width" from="0" to="104.3"
           dur="0.9s" begin="0.12s" fill="freeze"
           calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
